@@ -214,4 +214,4 @@ AstroMenace is a full free version available under a GNU license, ensuring that 
 Dive into the universe of AstroMenace today and experience the thrill of retro spaceship action! Download now and join the adventure!
 
 ---
-**Last updated:** 2026-09-30 07:35:38 UTC
+**Last updated:** 2026-09-30 14:19:30 UTC
